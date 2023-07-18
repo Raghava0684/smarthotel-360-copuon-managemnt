@@ -109,3 +109,6 @@ As you search and review the guests coupons in the app you can verify the search
 5. Visit the created hotel coupon web site at http://**[Web App Name]**.azurewebsites.net/
 
 6. Login with username/password as **me@smarthotel360.com/1234**.
+
+
+https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/
